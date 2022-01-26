@@ -10,4 +10,4 @@ Se utiliza el mismo código que el repositorio de la práctica #4, se agregó la
 
 ARCHIVOS INCLUIDOS
 --------------------------------------------------------------------------------------------------------------------------------------------------------
-Se incluyen los archivos de texto (para las pruebas), .java, .class, .jar y .zip utilizados y entregados, así como el manual de la práctica con el proposito de explicar los temas que se están desarrollando en el programa, contiene algunos ejemplos para una mejor comprensión
+Se incluyen los .txt (para las pruebas), .java, .class, .jar y .zip utilizados y entregados, así como el manual de la práctica con el proposito de explicar los temas que se están desarrollando en el programa, contiene algunos ejemplos para una mejor comprensión
